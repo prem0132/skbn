@@ -12,7 +12,6 @@ import (
 
 	"cloud.google.com/go/storage"
 	"google.golang.org/api/iterator"
-	_ "k8s.io/client-go/plugin/pkg/client/auth/gcp"
 )
 
 // GetClientToGcs checks the connection to GCS and returns the tested client

@@ -1,8 +1,8 @@
-[![Release](https://img.shields.io/github/release/maorfr/skbn.svg)](https://github.com/maorfr/skbn/releases)
-[![Travis branch](https://img.shields.io/travis/maorfr/skbn/master.svg)](https://travis-ci.org/maorfr/skbn)
-[![Docker Pulls](https://img.shields.io/docker/pulls/maorfr/skbn.svg)](https://hub.docker.com/r/maorfr/skbn/)
-[![Go Report Card](https://goreportcard.com/badge/github.com/maorfr/skbn)](https://goreportcard.com/report/github.com/maorfr/skbn)
-[![license](https://img.shields.io/github/license/maorfr/skbn.svg)](https://github.com/maorfr/skbn/blob/master/LICENSE)
+[![Release](https://img.shields.io/github/release/prem0132/skbn.svg)](https://github.com/prem0132/skbn/releases)
+[![Travis branch](https://img.shields.io/travis/prem0132/skbn/master.svg)](https://travis-ci.org/prem0132/skbn)
+[![Docker Pulls](https://img.shields.io/docker/pulls/prem0132/skbn.svg)](https://hub.docker.com/r/prem0132/skbn/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/prem0132/skbn)](https://goreportcard.com/report/github.com/prem0132/skbn)
+[![license](https://img.shields.io/github/license/prem0132/skbn.svg)](https://github.com/prem0132/skbn/blob/master/LICENSE)
 
 # Skbn
 
@@ -24,13 +24,13 @@ Skbn currently supports the following providers:
 
 ### From a release
 
-Download the latest release from the [Releases page](https://github.com/maorfr/skbn/releases) or use it with a [Docker image](https://hub.docker.com/r/maorfr/skbn)
+Download the latest release from the [Releases page](https://github.com/prem0132/skbn/releases) or use it with a [Docker image](https://hub.docker.com/r/prem0132/skbn)
 
 ### From source
 
 ```
-mkdir -p $GOPATH/src/github.com/maorfr && cd $_
-git clone https://github.com/maorfr/skbn.git && cd skbn
+mkdir -p $GOPATH/src/github.com/prem0132 && cd $_
+git clone https://github.com/prem0132/skbn.git && cd skbn
 make
 ```
 
